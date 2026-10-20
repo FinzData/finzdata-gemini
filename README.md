@@ -2,6 +2,10 @@
 
 Point-in-time, survivorship-free US market data in Gemini CLI: 16,000+ US stocks including delisted, ETFs, options, macroeconomics, crypto, futures positioning (COT), 1-minute to daily bars, point-in-time fundamentals, dealer gamma (GEX), 13F, the FinzData Quantitative Model, and backtests.
 
+## Coverage
+
+Market data your backtests can trust. The whole market, remembered: every one of the 16,000+ US stocks that has traded on the NYSE and Nasdaq in the last 26+ years, delisted included, point in time. Around them, options-market gamma for single stocks, ETFs and the major indexes, 231 ETFs, crypto since 2015, macro exactly as it was known, COT positioning, and 1-minute to daily bars. In pandas with one line: `pip install finzdata`.
+
 ## Install
 
 ```bash
