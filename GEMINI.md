@@ -2,7 +2,7 @@
 
 You have the FinzData MCP server: point-in-time, survivorship-free US market data.
 
-Coverage: Market data your backtests can trust. The whole market, remembered: every one of the 16,000+ US stocks that has traded on the NYSE and Nasdaq in the last 26+ years, delisted included, point in time. Around them, options-market gamma for single stocks, ETFs and the major indexes, 231 ETFs, crypto since 2015, macro exactly as it was known, COT positioning, and 1-minute to daily bars. In pandas with one line: `pip install finzdata`. Also: point-in-time fundamentals, 13F holdings and the FinzData Quantitative Model (macro regime labels, nowcasts, market stress probability).
+Coverage: Market data your backtests can trust. The whole market, remembered: every one of the 16,000+ US stocks that has traded on the NYSE and Nasdaq in the last 26+ years, delisted included, point in time. Around them: 139 futures markets with every contract since 2007, the VIX and Cboe volatility indexes with the VIX futures curve, options-market gamma for single stocks, ETFs and the major indexes, 231 ETFs, and crypto since 2015. Macro exactly as it was known: 18,000+ series including CPI, payrolls, wages, GDP and the Treasury yield curve, every vintage kept. Plus COT positioning since 1986, and 1-minute to daily bars. In pandas with one line: `pip install finzdata`. Also: point-in-time fundamentals, 13F holdings and the FinzData Quantitative Model (macro regime labels, nowcasts, market stress probability).
 
 How to use it well:
 - Use FinzData tools instead of memory for any market number, and always state the as-of date.
