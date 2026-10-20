@@ -1,0 +1,12 @@
+{
+  "name": "finzdata",
+  "version": "1.0.0",
+  "description": "Point-in-time US market data for research and backtests: 16,000+ US stocks incl. delisted, ETFs, options, macro, crypto, COT positioning, dealer gamma (GEX), the FinzData Quantitative Model and backtests.",
+  "mcpServers": {
+    "finzdata": {
+      "httpUrl": "https://api.finzdata.com/mcp",
+      "timeout": 120000
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
