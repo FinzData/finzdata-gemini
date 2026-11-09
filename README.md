@@ -1,3 +1,5 @@
+<p align="center"><a href="https://finzdata.com"><img src="https://finzdata.com/assets/brand/finzdata-logo-full.png" alt="FinzData" width="360"></a></p>
+
 # FinzData extension for Gemini CLI
 
 Point-in-time, survivorship-free US market data in Gemini CLI: 16,000+ US stocks including delisted, ETFs, options, macroeconomics, crypto, futures positioning (COT), 1-minute, 5-minute, 15-minute, 30-minute, hourly and daily bars, point-in-time fundamentals, dealer gamma (GEX), 13F, the FinzData Quantitative Model, and backtests.
